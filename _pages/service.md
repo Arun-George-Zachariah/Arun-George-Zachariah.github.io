@@ -1,5 +1,5 @@
 ---
-permalink: /news/
+permalink: /service/
 title: "Professional Service"
 excerpt: "Professional Service"
 ---
