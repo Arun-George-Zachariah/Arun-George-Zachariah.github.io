@@ -13,6 +13,6 @@ excerpt: "Software and Programs"
 * [XGBoost-Spark](https://github.com/Arun-George-Zachariah/XGBoost-Spark) - XGBoost4J-Spark for Classification and Regression.
 * [TwitterAnalytics](https://github.com/Arun-George-Zachariah/TwitterAnalytics) - A web application visualizes interesting analytic Spark SQL queries executed on Tweets for famous fashion brands.
 
-I have also contributed to:
+**In addition, I have also contributed to:**
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 * [amidst/toolbox](https://github.com/amidst/toolbox) - A Java Toolbox for Scalable Probabilistic Machine Learning
