@@ -3,7 +3,7 @@ title: "Deepfakes for Histopathology Images: A Myth or Reality?"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-DeepFakes-5
-venue: " (Virtual)"
+venue: "Mizzou Cybersecurity Center IAB Meeting (Virtual)"
 date: 2021-4-30
 location: "Columbia, Missouri"
 ---
