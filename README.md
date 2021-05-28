@@ -4,4 +4,4 @@ This is my personal webpage, built using the Github Pages template for academic 
 
 ## Preview
 
-![Preview](img/preview.png)
+![Preview](images/preview.png)
