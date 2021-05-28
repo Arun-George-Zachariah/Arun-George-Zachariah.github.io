@@ -3,6 +3,10 @@ permalink: /news/
 title: "Recent News"
 excerpt: "Recent News"
 ---
+* [May 11, 2021] I am honoured to be awarded the MU Graduate Professional Council Research Development Award.
+* [Apr 30, 2021] Presented our work "Deepfakes for Histopathology Images: Myth or Reality?" at the [Mizzou Cybersecurity Center](https://engineering.missouri.edu/ceri-center/) IAB Meeting.
+* [Apr 1, 2021] I would be joining [Arm Inc](https://www.arm.com) as an Engineering Intern this summer. Looking forward to work on large scale infrastructure research at Arm.
+* [Mar 9, 2019] Presented the demo for "A Large-Scale Image Retrieval System for Everyday Scenes" virtually at ACM Multimedia Asia 2020.
 * [Dec 11, 2020] Our demo paper entitled "A Large-Scale Image Retrieval System for Everyday Scenes" has been accepted to [ACM Multimedia Asia 2020](https://mmasia2020.org).
 * [Nov 11, 2020] Our paper entitled "Evaluation of Internet-based Crowdsourced Fundraising to Cover Healthcare Costs in the United States" has been accepted to JAMA Network Open.
 * [Oct 29, 2020] Presented virtually at the [Annual ACM International Conference on Multimedia Retrieval (ICMR 2020)](http://icmr2020.org).

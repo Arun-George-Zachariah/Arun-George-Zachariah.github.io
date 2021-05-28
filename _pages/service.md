@@ -5,6 +5,9 @@ excerpt: "Professional Service"
 ---
 
 **External Reviewer**
+* 23rd International Conference on Big Data Analytics and Knowledge Discovery
+* 30th International Conference on Computer Communications and Networks.
+* 4th International Conference on Connected and Autonomous Driving (MetroCAD)
 * Cluster Computing Journal – Springer
 * 8th International Conference on Big data and Cloud Computing
 * 8th IEEE International Conference on Healthcare Informatics
@@ -18,6 +21,7 @@ excerpt: "Professional Service"
 **Student Volunteer**
 * 34th Conference on Neural Information Processing Systems (NeurIPS)
 * 7th International Conference on Big data and Cloud Computing
+* Deep Learning Fundamentals for Computer Vision.
 
 **Conference Workshops Conducted**
 * Fundamentals of Deep Learning for Computer Vision
