@@ -3,6 +3,7 @@ permalink: /news/
 title: "Recent News"
 excerpt: "Recent News"
 ---
+* [Aug 9, 2021] Our paper entitled "Accelerating Variant Calling on Human Genomes Using a Commodity Cluster" has been accepted to CIKM 2021.
 * [May 11, 2021] I am honoured to be awarded the MU Graduate Professional Council Research Development Award.
 * [Apr 30, 2021] Presented our work "Deepfakes for Histopathology Images: Myth or Reality?" at the [Mizzou Cybersecurity Center](https://engineering.missouri.edu/ceri-center/) IAB Meeting.
 * [Apr 1, 2021] I would be joining [Arm Inc](https://www.arm.com) as an Engineering Intern this summer. Looking forward to work on large scale infrastructure research at Arm.
