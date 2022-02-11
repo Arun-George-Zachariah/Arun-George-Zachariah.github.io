@@ -3,6 +3,17 @@ permalink: /news/
 title: "Recent News"
 excerpt: "Recent News"
 ---
+* [Jan 19, 2021] Successfully presented my work titled "A System for Large-Scale Image and 
+Video Retrieval on Everyday Scenes" as a part of my Ph.D. Comprehensive examination. 
+* [Jan 1, 2022] Excited to be working with TripleBlind as a part of the industry-sponsored research project.
+* [Dec 7, 2021] Organized the [ACM/Code.org Hour of Code](https://www.acm.org/articles/bulletins/2020/december/hour-of-code-2020) at [Centro Latino](https://centrolatino.missouri.org/en/about/).
+* [Dec 1, 2021] Our paper titled “Zero Shot Learning for Predicting Energy Usage of Buildings in Sustainable Design” has been accepted AAAI Workshop on AI to Accelerate Science and Engineering.
+* [Nov 30, 2021] Presented the demo for “Private-Share: A Secure and Privacy-Preserving De-Centralized Framework for Large Scale Data Sharing” virtually at ACM Multimedia Asia 2021.
+* [Nov 17, 2021] Honored to have received the Upsilon Pi Epsilon Scholarship Award ([news](https://engineering.missouri.edu/2021/11/computer-science-students-receive-upe-scholarships/)). 
+* [Nov 12, 2021] Honored to have received the ACM SIGMM Travel Grant to attend ACM Multimedia Asia 2021 at  Gold Coast, Australia.
+* [Oct 27, 2021] Super excited to have our nominated for the [Best Short Paper Award](https://www.cikm2021.org/programme/best-paper-nominations) at CIKM 2021.
+* [Oct 12, 2021] Our demo paper titled “Private-Share: A Secure and Privacy-Preserving De-Centralized Framework for Large Scale Data Sharing” has been accepted to ACM Multimedia Asia 2021.
+* [Aug 20, 2021] Last day as an Engineering Intern at Arm Inc. I would be back at SDS Lab to continue working on my Ph.D.
 * [Aug 9, 2021] Our paper entitled "Accelerating Variant Calling on Human Genomes Using a Commodity Cluster" has been accepted to CIKM 2021.
 * [Aug 5, 2021] Grateful to the VLDB Endowment Committee for awarding me the SPEND grant.
 * [Jun 30, 2021] Thank you Janese, for featuring my [internship experience](https://engineering.missouri.edu/2021/06/mizzou-engineer-solving-complex-problems-during-internship-at-arm/)
