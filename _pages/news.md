@@ -3,7 +3,8 @@ permalink: /news/
 title: "Recent News"
 excerpt: "Recent News"
 ---
-* [Jan 19, 2021] Successfully presented my work titled "A System for Large-Scale Image and 
+* [Feb 9, 2022] Our paper titled "Enabling Large-Scale Human Genome Sequence Analysis on CloudLab" has been accepted as a demo paper at IEEE INFOCOM Workshop: Computer and Networking Experimental Research using Testbeds (CNERT 2022).
+* [Jan 19, 2022] Successfully presented my work titled "A System for Large-Scale Image and 
 Video Retrieval on Everyday Scenes" as a part of my Ph.D. Comprehensive examination. 
 * [Jan 1, 2022] Excited to be working with TripleBlind as a part of the industry-sponsored research project.
 * [Dec 7, 2021] Organized the [ACM/Code.org Hour of Code](https://www.acm.org/articles/bulletins/2020/december/hour-of-code-2020) at [Centro Latino](https://centrolatino.missouri.org/en/about/).
