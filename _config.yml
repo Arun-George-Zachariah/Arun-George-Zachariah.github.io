@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Arun Zachariah"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant | NSF Center for Big Learning | SDS Lab | Center for Biomedical Informatics"
+  bio              : "Senior Systems Software Engineer - Data Services"
   location         :
-  employer         : "University of Missouri - Columbia"
+  employer         : "NVIDIA"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=uRV_BjgAAAAJ&hl=en&oi=sra"
-  email            : "azachariah@mail.missouri.edu"
+  email            : "azachariah@nvidia.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "6189004/arun-george"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "arungzachariah"
   vine             :
   weibo            :
   xing             :
