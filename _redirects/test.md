@@ -1,6 +1,7 @@
 ---
 title: 'test'
 permalink: /test
+redirect_to: https://www.google.com/
 ---
 <script>
   // Add a delay (in milliseconds) before the redirect
