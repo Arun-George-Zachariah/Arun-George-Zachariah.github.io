@@ -3,6 +3,7 @@ permalink: /softwares/
 title: "Software and Programs"
 excerpt: "Software and Programs"
 ---
+* [QuickTeX](https://arun-george-zachariah.github.io/QuickTeX/) - Render LaTeX Equations as PNG Images
 * [Homomorphic-Encryption](https://github.com/Arun-George-Zachariah/Homomorphic-Encryption) - A Java based implementation of Homomorphic Encryption. 
 * [EVA](https://github.com/MU-Data-Science/EVA) - Exhaustive Variant Analysis
 * [QIK](https://github.com/MU-Data-Science/QIK) - Querying Images Using Contextual Knowledge on Everyday Scenes
