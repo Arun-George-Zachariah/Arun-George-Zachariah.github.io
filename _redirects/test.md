@@ -5,7 +5,7 @@ redirect_to: https://www.google.com/
 ---
 <script>
   // Add a delay (in milliseconds) before the redirect
-  const delay = 2000; // 2000 milliseconds = 2 seconds
+  const delay = 20000; // 20000 milliseconds = 20 seconds
   const destinationUrl = "{{ page.redirect_to }}";
 
   setTimeout(() => {
