@@ -17,7 +17,7 @@ Video Retrieval on Everyday Scenes" as a part of my Ph.D. Comprehensive examinat
 * [Aug 20, 2021] Last day as an Engineering Intern at Arm Inc. I would be back at SDS Lab to continue working on my Ph.D.
 * [Aug 9, 2021] Our paper entitled "Accelerating Variant Calling on Human Genomes Using a Commodity Cluster" has been accepted to CIKM 2021.
 * [Aug 5, 2021] Grateful to the VLDB Endowment Committee for awarding me the SPEND grant.
-* [Jun 30, 2021] Thank you Janese, for featuring my [internship experience](https://engineering.missouri.edu/2021/06/mizzou-engineer-solving-complex-problems-during-internship-at-arm/)
+* [Jun 30, 2021] Thank you Janese, for featuring my [internship experience](https://engineering.missouri.edu/2021/06/mizzou-engineer-solving-complex-problems-during-internship-at-arm/).
 * [Jun 1, 2021] Started my internship at [Arm Inc](https://www.arm.com).
 * [May 11, 2021] I am honoured to be awarded the MU Graduate Professional Council Research Development Award.
 * [Apr 30, 2021] Presented our work "Deepfakes for Histopathology Images: Myth or Reality?" at the [Mizzou Cybersecurity Center](https://engineering.missouri.edu/ceri-center/) IAB Meeting.
