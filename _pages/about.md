@@ -9,7 +9,7 @@ redirect_from:
   - /Personal-Page
   - /about.html
 ---
-I am a Sr. Research Scientist with the [Trustworthy AI](https://www.nvidia.com/en-us/ai-trust-center/trustworthy-ai/) group at [NVIDIA](https://www.nvidia.com). My research is primarily focused on the core challenges of this field, centering on the development of principles and practices to ensure AI technologies meet the highest standards of reliability, security, transparency, and ethics."
+I am a Sr. Research Scientist with the [Trustworthy AI](https://www.nvidia.com/en-us/ai-trust-center/trustworthy-ai/) group at [NVIDIA](https://www.nvidia.com). My research is primarily focused on the core challenges of this field, centering on the development of principles and practices to ensure AI technologies meet the highest standards of reliability, security, transparency, and ethics.
 
 I joined 2022 in 2022, initially serving as an Applied Research Scientist and Engineering Manager for the [TAO Toolkit](https://developer.nvidia.com/tao-toolkit) team. In that role, I led a team of software developers and deep learning engineers, overseeing the end-to-end planning and execution of [TAO releases](https://github.com/NVIDIA/tao_pytorch_backend). A key part of my focus was ensuring that the highest standards of Trustworthy AI were met in the development and deployment of our AI technologies.
 
