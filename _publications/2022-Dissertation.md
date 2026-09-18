@@ -3,6 +3,7 @@ title: "A System for Large-Scale Image and Video Retrieval on Everyday Scenes"
 collection: publications
 permalink: /publication/2022-Dissertation
 date: 2022-07-01
+last_modified_at: 2026-09-18
 venue: "University of Missouri-Columbia"
 paperurl: "/publication/Arun_George_Zachariah_Dissertation.pdf"
 citation_title: "A System for Large-Scale Image and Video Retrieval on Everyday Scenes"
