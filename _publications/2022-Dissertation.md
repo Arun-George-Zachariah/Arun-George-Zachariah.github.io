@@ -18,6 +18,8 @@ There has been a growing amount of multimedia data generated on the web today in
 
 [Download the full dissertation PDF](/publication/Arun_George_Zachariah_Dissertation.pdf)
 
+Archived copy on Zenodo: [https://doi.org/10.5281/zenodo.24410142](https://doi.org/10.5281/zenodo.24410142)
+
 ## Bibliography
 
 {% include dissertation_bibliography.html %}
