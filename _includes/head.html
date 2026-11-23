@@ -12,6 +12,8 @@
 <meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
 {% if page.citation_dissertation_institution %}<meta name="citation_dissertation_institution" content="{{ page.citation_dissertation_institution | escape_once }}">{% endif %}
 {% if page.citation_pdf_url %}<meta name="citation_pdf_url" content="{{ page.citation_pdf_url | absolute_url }}">{% endif %}
+{% if page.citation_references %}{% for ref in site.data[page.citation_references] %}
+<meta name="citation_reference" content="{{ ref.text | escape_once }}{% if ref.doi %} doi:{{ ref.doi }}{% endif %}">{% endfor %}{% endif %}
 {% endif %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
